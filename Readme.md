@@ -21,7 +21,7 @@ mongodb+srv://username:password@cluster0-7dh5w.mongodb.net/dbname?retryWrites=tr
 npm run dev
 
 * use eslint and airbnb style guide
-pick an issue solve and pull request
+pick an issue solve and pull request https://github.com/codewithpinkhub/backedCrudApi/issues
 
 ## happy coding!!! 
  
