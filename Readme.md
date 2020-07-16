@@ -5,10 +5,11 @@ and also write unit tests for the crud application.
 ## technologies 
 nodejs, express, mongodb,jasmine
 ## How to start
-Have postman and nodejs installed
-clone the repository by executing this command to your terminal
+Have postman and nodejs installed.
 
-then cd backedCrudApi
+Clone the repository by executing this command to your terminal
+
+ cd backedCrudApi
 ## install dependencies
 npm install
 ## configure database 
@@ -21,8 +22,10 @@ mongodb+srv://username:password@cluster0-7dh5w.mongodb.net/dbname?retryWrites=tr
 ## running the project
 npm run dev
 
-* use eslint and airbnb style guide
-pick an issue solve and pull request https://github.com/codewithpinkhub/backedCrudApi/issues
+* use eslint and airbnb style guide.
+
+Pick an issue solve and pull request
+https://github.com/codewithpinkhub/backedCrudApi/issues
 
 ## happy coding!!! 
  
