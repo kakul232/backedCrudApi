@@ -5,6 +5,7 @@ and also write unit tests for the crud application.
 ## technologies 
 nodejs, express, mongodb,jasmine
 ## How to start
+Have postman and nodejs installed
 clone the repository by executing this command to your terminal
 
 then cd backedCrudApi
